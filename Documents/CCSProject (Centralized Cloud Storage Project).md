@@ -42,7 +42,11 @@ need to be disscussed for more things
 
 
 ## 1.5 Constraints and Assumptions
-....
+### Constraints (==to be discussed later==)
+1. buying a custom domain with yearly payment  in 10-20$
+2. exposing server to internet requires one of two options:
+   - cloudflare tunneling
+   - modem's server virtual or direct forwarding
 ## 1.6 Technology Stack
 ### Back-end:
 - **Back-End language** : Node.js
